@@ -1,0 +1,171 @@
+Tom will attend this meeting at New York.
+( Tom, attend this meeting at, New York. )
+
+This section introduces REVERB which is a novel open extractor based on the constraints defined in the previous section.
+( This section, introduces, REVERB )
+( REVERB, is, a novel open extractor )
+( a novel open extractor, based on, the constraints )
+( a novel open extractor, defined in, the previous section. )
+
+A relation phrase extractor will use a sequence-labeling graphical model.
+( A relation phrase extractor, use, a sequence-labeling graphical )
+
+He become obsessed with the award after seeing one at Sylvester Stallone.
+( He, become obsessed with, the award )
+( He, seeing one at, Sylvester Stallone. )
+
+To overcome this limitation, we introduce a lexical constraint that is used to separate valid relation phrases from overspecified relation phrases.
+( we, introduce, a lexical constraint )
+( a lexical constraint, is used to, separate valid relation phrases )
+
+According to IMDb, the online film website, he has appeared in 134 films as an actor.
+( he, has appeared in, 134 films )
+
+Jack was among a roster of artists to receive the Honorary Academy Award.
+( Jack, was among, a roster )
+( Jack, receive, the Honorary Academy )
+
+Donald J. Trump ignited a surprising confrontation on Saturday between his incoming Republican administration and the cast of the Broadway “Hamilton”.
+( Donald J. Trump, ignited a surprising confrontation on, Saturday )
+
+Faust made a deal with the Devil.
+( Faust, made a deal with, the Devil. )
+
+Extendicare agreed to buy Arbor Health Care for about US $432 million in cash and assumed debt.
+( Extendicare, agreed to buy Arbor Health Care for, about US $432 million )
+
+Hudson was born in Hampstead which is a suburb of London.
+( Hudson, was born in, Hampstead )
+( Hudson, is a suburb of, London. )
+
+I will let you know the exact time later.
+( I, let you know, the exact time )
+
+The dragon appeared for dinner at eight with Melissa as usual.
+( The dragon, appeared for, dinner )
+
+She clung to him for hours trying to fight the tiredness that was overtaklng her
+( She, clung to, him )
+( She, trying to fight, the tiredness )
+( the tiredness, was overtaklng, her )
+
+I stayed a night in the hostel there, renewing my friendship with the managers.
+( I, stayed a night in, the hostel )
+( I, renewing my friendship with, the managers. )
+
+Te Aroha is a small dairy-farming town about 3,500 people and several hundred thousand head of cattle.
+( Te Aroha, is a small dairy-farming town about, 3,500 people )
+
+The land was a perpetual free lease from the town.
+( The land, was a perpetual free lease from, the town. )
+
+One card-game that hostellers had introduced me to at Whakatane provedvery popular at Te Aroha on rainy days.
+( One card-game, had introduced me to, Whakatane provedvery )
+
+Dealing continues until any player, after completing their turn but before the next player has their turn, knocks twice on the table.
+( their turn,, knocks twice on, the table. )
+
+I love swimming in the pool.
+( I, love swimming in, the pool. )
+
+The princess' tone carried even more ice than before.
+( The princess' tone, carried even more ice than, before. )
+
+In the morning, we piled into a car and headed off.
+( we, piled into, a car )
+
+We went through the town and took a side-road towards the mountain on the far side.
+( We, went through, the town )
+( We, took a side-road towards, the mountain )
+
+The forest road led us partway up the mountain, then ended in a parking lot.
+( The forest road, led us partway up, the mountain, )
+( The forest road, ended in, a parking lot. )
+
+We walks around the small weed grown lake that fills the lowest section of the crater.
+( We, walks around, the small weed grown lake )
+( We, grown lake that fills the lowest section of, the crater. )
+
+We finally reached the top which is the highest point on the rim of the crater.
+( We, reached, the top )
+( the top, is the highest point on, the rim )
+
+I saw a huge green lump.
+( I, saw, a huge green lump. )
+
+I found myself looking at a spine of rock extending from the mountain top
+( I, found myself looking at, a spine )
+( I, extending from, the mountain top )
+
+He is asked to perform skills before he is adequately prepared.
+
+I still possess a small phial of water and another of sand, collected during that visit.
+( I, possess a small phial of, water )
+( another, collected during, that visit. )
+
+The land was a perpetual free lease from the town.
+( The land, was a perpetual free lease from, the town. )
+
+Sirenetta watched the men go about their work aboard, lighting the lanterns for the night.
+( Sirenetta, watched, the men )
+( the men, go about, their work )
+( the men, lighting the lanterns for, the night. )
+
+She could clearly hear their voices.
+( She, hear, their voices. )
+
+The captain was now in good hands.
+( The captain, was now in, good hands. )
+
+He stopped at the base of the tower, squinted up at the north window and coughed loudly.
+( He, stopped at, the base )
+( He, squinted up, the north window )
+
+The dragon appeared for dinner at eight with Melissa as usual.
+( The dragon, appeared for, dinner )
+
+The forest road led us partway up the mountain, then ended in a parking lot.
+( The forest road, led us partway up, the mountain, )
+( The forest road, ended in, a parking lot. )
+
+You have received this email because someone shared a document with you from Google Docs.
+( You, have received this email because someone shared a document with, you )
+
+The Walking Dead has been twiddling its torturous thumbs for the past few weeks.
+( The Walking Dead, has been twiddling its torturous thumbs for, the past few weeks. )
+
+The president described himself as an American citizen who cares deeply about our country.
+( The president, described himself as, an American citizen )
+( who, cares deeply about, our country. )
+
+Mr Bush has refrained since leaving office from commenting on Mr Obama's presidency.
+( Mr Bush, has refrained since leaving office from commenting on, Mr Obama's )
+
+A former president doesn't need to make it any harder.
+( A former president, need to make, it )
+
+Mr Bush's stance falls in line with tradition.
+( Mr Bush's stance, falls in, line )
+
+Mr Obama was clear that he would not weigh in on Mr Trump's decisions while he is still in office.
+( Mr Obama, was clear that, he )
+( Mr Obama, weigh in, Mr Trump's decisions )
+( Mr Obama, is still in, office. )
+
+President-elect Donald Trump on Sunday assessed several more contenders for top U.S. posts.
+( President-elect Donald Trump, assessed several more contenders for, top U.S. )
+
+Trump held meetings at his golf resort in Bedminster.
+( Trump, held meetings at, his golf resort )
+
+A Trump transition team statement said their discussion included the U.S. economy and global capital markets.
+( A Trump transition team statement, said, their discussion )
+( their discussion, included, the U.S. economy )
+
+Trump met with billionaire investor Wilbur Ross, who he said was under consideration for commerce secretary.
+( Trump, met with, billionaire investor Wilbur Ross, )
+( he, said was under, consideration )
+
+The president-elect has already tapped three senior leaders.
+( The president-elect, has already tapped, three senior leaders. )
+
